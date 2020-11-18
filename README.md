@@ -1,4 +1,4 @@
-# Python-Coursework-2
+# Software Development 1 - Python-Coursework 2
 I. Write a program that reads integer numbers from the user and reports whether each value is positive or negative.
 #The loop terminates when the user enters 0 (no message is displayed in this case).
 ```python
